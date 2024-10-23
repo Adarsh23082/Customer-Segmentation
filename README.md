@@ -50,4 +50,4 @@ This project demonstrates the use of K-Means clustering for customer segmentatio
 
 ## Contact
 
-For any queries or suggestions, feel free to contact me at [your-email@example.com].
+For any queries or suggestions, feel free to contact me at [mauryaadarsh975@gmail.com].
