@@ -22,7 +22,9 @@ The project is organized as follows:
 
 - **Customer Segmentation.ipynb**: The main Jupyter notebook containing the full analysis and implementation of the K-Means algorithm for customer segmentation.
 - **README.md**: This document that provides an overview of the project.
-  
+
+> **Note**: This notebook has also been uploaded to my [Kaggle profile](https://www.kaggle.com/code/adarshrajmaurya/discovering-customer-segments-with-k-means), where you can explore the code, results, and visualizations in an interactive environment.
+
 ## Methodology
 
 1. **Data Preprocessing**: The data is first cleaned and prepared by handling missing values and scaling features to improve the performance of the clustering algorithm.
